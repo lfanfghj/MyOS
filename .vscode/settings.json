@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "print.h": "c",
+        "init.h": "c",
+        "interrupt.h": "c",
+        "timer.h": "c",
+        "memory.h": "c",
+        "string.h": "c",
+        "thread.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
